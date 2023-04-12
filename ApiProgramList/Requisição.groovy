@@ -3,7 +3,6 @@ import java.sql.SQLException;
 import br.com.singlepoint.forms.engine.FormsException;
 import com.google.gson.Gson;
 import org.json.JSONObject;
-import com.singlepoint.utils.enums.web.servlet.RequestMethod;
 import com.singlepoint.utils.net.request.JSONCompleteListener;
 import com.singlepoint.utils.module.transactscope.*;
 import com.singlepoint.utils.module.transactscope.hibernate.*;
